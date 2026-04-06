@@ -12,6 +12,6 @@ The built-in credentials helper for git has two drawbacks:
 ```
 
 ## REFERENCES
-https://git-scm.com/docs/git-credential
-https://git-scm.com/doc/credential-helpers
-https://git-scm.com/docs/git-credential-store
+https://git-scm.com/docs/git-credential  
+https://git-scm.com/doc/credential-helpers  
+https://git-scm.com/docs/git-credential-store  
